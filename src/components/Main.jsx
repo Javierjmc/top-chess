@@ -9,7 +9,10 @@ const Main = () => {
   const [tipoElo, setTipoElo]=useState('0')
   return (
     <main className="max-w-4xl mx-auto py-4">
-      <Filter 
+      <Filter
+        nameSearch={nameSearch}
+        edad={edad}
+        tipoElo={tipoElo}
         onChangeName={(event)=>setNameSearch(event.target.value)} 
         onChangeEdad={(event)=>setEdad(event.target.value)} 
         onChangeTipoElo={(event)=>setTipoElo(event.target.value)}/>
