@@ -27,7 +27,7 @@ const List = ({data, nameSearch, edad, tipoElo}) => {
           .filter(jugador => nameSearch.trim() ? jugador.nombre.toLowerCase().includes(nameSearch.toLowerCase()) : true )
           .filter(jugador => edad ? jugador.edad<edad : true )
           .map((jugador, index)=>{
-            return <ItemsList key={index} nombre={jugador.nombre} elo={jugador.elo} index={index+1}/>
+            return <ItemsList key={index} nombre={jugador.nombre} elo={jugador.elo} index={index+1} id={jugador.id}/>
           })
         }      
       
