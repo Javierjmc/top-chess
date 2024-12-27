@@ -124,5 +124,41 @@
         "edad": 42,
         "elo": [1786, 1776, "UR"],
         "id": "3935744"
+    },
+    {
+        "nombre": "Juan Rodriguez",
+        "edad": 25,
+        "elo": [1749, 1732, 1848],
+        "id": "3992853"
+    },
+    {
+        "nombre": "Steven Boada",
+        "edad": 16,
+        "elo": [1717, 1747, 1642],
+        "id": "23910399"
+    },
+    {
+        "nombre": "Roman Pulvett",
+        "edad": 48,
+        "elo": [1978, "UR", 1989],
+        "id": "3929795"
+    },
+    {
+        "nombre": "Argenis Palacios",
+        "edad": 38,
+        "elo": [1735, 1860, "UR"],
+        "id": "3938395"
+    },
+    {
+        "nombre": "Jhonny Pastrano",
+        "edad": 60,
+        "elo": [1702, 1686, 1680],
+        "id": "3933253"
+    },
+    {
+        "nombre": "Jhonny Pastrano",
+        "edad": 60,
+        "elo": [1702, 1686, 1680],
+        "id": "3933253"
     }
 ]
