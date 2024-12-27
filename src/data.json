@@ -1,0 +1,128 @@
+[
+    {
+        "nombre": "Carlos Didenot",
+        "edad": 33,
+        "elo": [2167, 2129, 2102],
+        "id": "3912027"
+    },
+    {
+        "nombre": "Ariel Torres",
+        "edad": 51,
+        "elo": [2166, 2159, "UR"],
+        "id": "3505014"
+    },
+    {
+        "nombre": "German Chacin",
+        "edad": 49,
+        "elo": [2075, 2050, 2099],
+        "id": "3903656"
+    },
+    {
+        "nombre": "Rodolfo Navarro",
+        "edad": 61,
+        "elo": [1984, 1990, 1990],
+        "id": "3903710"
+    },
+    {
+        "nombre": "Jhoan Gonzalez",
+        "edad": 45,
+        "elo": [1970, 1990, 1981],
+        "id": "3923320"
+    },
+    {
+        "nombre": "Aristides Pulvett",
+        "edad": 33,
+        "elo": [1990, 1974, 1936],
+        "id": "3928730"
+    },
+    {
+        "nombre": "Carlos Flores",
+        "edad": 50,
+        "elo": [1932, 1793, 1914],
+        "id": "3908321"
+    },
+    {
+        "nombre": "Richard Rodriguez",
+        "edad": 48,
+        "elo": [1977, 2046, 1977],
+        "id": "3929434"
+    },
+    {
+        "nombre": "Javier Martínez",
+        "edad": 35,
+        "elo": [1890, 1857, "UR"],
+        "id": "3930564"
+    },
+    {
+        "nombre": "Juan Luces",
+        "edad": 28,
+        "elo": [1783, 1765, 1706],
+        "id": "3906612"
+    },
+    {
+        "nombre": "Emilio Ibarra",
+        "edad": 20,
+        "elo": [1765, 1762, 1759],
+        "id": "3981541"
+    },
+    {
+        "nombre": "Douglas Maita",
+        "edad": 51,
+        "elo": [1821, 1834, 1810],
+        "id": "3928721"
+    },
+    {
+        "nombre": "Omar Rodriguez",
+        "edad": 55,
+        "elo": [1864, 1821, 1860],
+        "id": "3932680"
+    },
+    {
+        "nombre": "Miguel Cordova",
+        "edad": 45,
+        "elo": [1808, 1788, 1806],
+        "id": "3960714"
+    },
+    {
+        "nombre": "Anderson Ramirez",
+        "edad": 36,
+        "elo": [1534, 1585, 1620],
+        "id": "3990737"
+    },
+    {
+        "nombre": "Emmanuel Valdez",
+        "edad": 18,
+        "elo": [1820, 1783, 1812],
+        "id": "3981827"
+    },
+    {
+        "nombre": "Fabian Castañeda",
+        "edad": 15,
+        "elo": [1697, 1665, 1602],
+        "id": "3953076"
+    },
+    {
+        "nombre": "Fabio Castañeda",
+        "edad": 14,
+        "elo": [1717, 1638, 1528],
+        "id": "3953084"
+    },
+    {
+        "nombre": "Thomas Campos",
+        "edad": 15,
+        "elo": [1451, 1441, 1472],
+        "id": "3981100"
+    },
+    {
+        "nombre": "Gabriel Campos",
+        "edad": 11,
+        "elo": ["UR", 1402, 1635],
+        "id": "3996182"
+    },
+    {
+        "nombre": "Jean Villamizar",
+        "edad": 42,
+        "elo": [1786, 1776, "UR"],
+        "id": "3935744"
+    }
+]
