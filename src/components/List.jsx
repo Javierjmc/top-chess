@@ -17,7 +17,7 @@ const List = ({data, nameSearch, edad, tipoElo}) => {
       <ul className="rounded-xl border border-gray-200 bg-slate-50 shadow-lg my-10 overflow-hidden">
         <li className="grid grid-cols-7 px-4 py-3 font-bold items-center text-white bg-[#1d294f]">
           <div>#</div>
-          <div className="col-span-2 sm:col-span-3 flex">Nombre</div>
+          <div className="col-span-3 flex">Nombre</div>
           <PsychologyIcon />
           <TimerIcon />
           <FlashOnIcon />

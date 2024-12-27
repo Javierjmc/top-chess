@@ -20,7 +20,7 @@ const Filter = ({
             <circle cx="11" cy="11" r="8" className=""></circle>
             <line x1="21" y1="21" x2="16.65" y2="16.65" className=""></line>
           </svg>
-          <input value={nameSearch} onChange={onChangeName} type="name" name="search" className="h-12 w-full cursor-text rounded-md border border-gray-100 bg-gray-100 py-2 pr-40 pl-12 shadow-sm outline-none focus:border-blue-500 focus:ring focus:ring-blue-200 focus:ring-opacity-50" placeholder="Filtrar por nombre" />
+          <input value={nameSearch} onChange={onChangeName} type="name" name="search" className="h-12 w-full cursor-text rounded-md border border-gray-100 bg-gray-100 py-2 sm:pr-40 pl-12 shadow-sm outline-none focus:border-blue-500 focus:ring focus:ring-blue-200 focus:ring-opacity-50" placeholder="Filtrar por nombre" />
         </div>
 
         <select onChange={onChangeTipoElo} value={tipoElo} id="manufacturer" className="rounded-md border border-gray-100 bg-gray-100 px-2 py-2 shadow-sm outline-none focus:border-blue-500 focus:ring focus:ring-blue-200 focus:ring-opacity-50">
