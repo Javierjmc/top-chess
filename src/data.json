@@ -160,5 +160,125 @@
         "edad": 60,
         "elo": [1702, 1686, 1680],
         "id": "3933253"
+    },
+    {
+        "nombre": "Fernando Gonzalez",
+        "edad": 27,
+        "elo": [1816, "UR", 1756],
+        "id": "3989348"
+    },
+    {
+        "nombre": "Eduardo Gonzalez",
+        "edad": 17,
+        "elo": [1760, 1827, 1878],
+        "id": "3989372"
+    },
+    {
+        "nombre": "Luis Garcia",
+        "edad": 60,
+        "elo": [1762, 1800, 1826],
+        "id": "3937631"
+    },
+    {
+        "nombre": "Hermes Guzman",
+        "edad": 45,
+        "elo": [1729, 1724, 1797],
+        "id": "3931692"
+    },
+    {
+        "nombre": "Fabiola Lopez",
+        "edad": 32,
+        "elo": [1879, 1912, 1865],
+        "id": "3938387"
+    },
+    {
+        "nombre": "José Hernandez",
+        "edad": 66,
+        "elo": [1896, 1855, 1855],
+        "id": "3914992"
+    },
+    {
+        "nombre": "Daniel Toledo",
+        "edad": 43,
+        "elo": [1886, 1896, 1890],
+        "id": "3929442"
+    },
+    {
+        "nombre": "José Banega",
+        "edad": 43,
+        "elo": [1886, 1839, "UR"],
+        "id": "3923975"
+    },
+    {
+        "nombre": "Rosselys Luces",
+        "edad": 25,
+        "elo": [1900, 1810, 1845],
+        "id": "3908208"
+    },
+    {
+        "nombre": "Guillermo Ovalles",
+        "edad": 71,
+        "elo": [1840, 1800, 1819],
+        "id": "3903737"
+    },
+    {
+        "nombre": "Alexander Gonzalez",
+        "edad": 32,
+        "elo": [1749, 1722, 1725],
+        "id": "3939111"
+    },
+    {
+        "nombre": "Enrique Cabrera",
+        "edad": 15,
+        "elo": [1652, 1612, 1722],
+        "id": "3981533"
+    },
+    {
+        "nombre": "Freddy Cohen",
+        "edad": 48,
+        "elo": [1458, 1428, 1472],
+        "id": "3999840"
+    },
+    {
+        "nombre": "Guillermo Herrera",
+        "edad": 46,
+        "elo": ["UR", 1856, 1789],
+        "id": "3938352"
+    },
+    {
+        "nombre": "Javier Laguna",
+        "edad": 18,
+        "elo": ["UR", 1781, 1682],
+        "id": "3992063"
+    },
+    {
+        "nombre": "Jean Malave",
+        "edad": 43,
+        "elo": [1775, "UR", "UR"],
+        "id": "23913916"
+    },
+    {
+        "nombre": "Keiler Martínez",
+        "edad": 38,
+        "elo": ["UR", "UR", 1835],
+        "id": "3929582"
+    },
+    {
+        "nombre": "Keymer Salom",
+        "edad": 29,
+        "elo": ["UR", 1768, 1841],
+        "id": "23910291"
+    },
+    {
+        "nombre": "Jesus Yemez",
+        "edad": 35,
+        "elo": ["UR", 1764, 1687],
+        "id": "3990583"
+    },
+    {
+        "nombre": "Victor Hernandez",
+        "edad": 65,
+        "elo": [1795, "UR", "UR"],
+        "id": "3930866"
     }
 ]
