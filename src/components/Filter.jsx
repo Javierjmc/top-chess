@@ -35,6 +35,7 @@ const Filter = ({
           <option value="14">Sub 14</option>
           <option value="16">Sub 16</option>
           <option value="18">Sub 18</option>
+          <option value="20">Sub 20</option>
           <option value="150">Absoluto</option>
         </select>
       <button type='button' onClick={handleClear} className="bg-gray-200 hover:bg-gray-300 active:bg-gray-400 transition px-6 py-2 rounded-md" >Limpiar</button>      
