@@ -274,5 +274,43 @@
         "edad": 65,
         "elo": [1795, 0, 0],
         "id": "3930866"
-    }
+    },
+    {
+        "nombre": "Ramses Hernandez",
+        "edad": 28,
+        "elo": [1771, 1736, 0],
+        "id": "3929388"
+    },
+    {
+        "nombre": "Manuel Vegas",
+        "edad": 23,
+        "elo": [0, 1688, 0],
+        "id": "3932729"
+    },
+    {
+        "nombre": "Pedro Leon",
+        "edad": 45,
+        "elo": [1816, 1796, 1839],
+        "id": "3929485"
+    },
+    {
+        "nombre": "Wilter Diaz",
+        "edad": 23,
+        "elo": [1477, 0, 0],
+        "id": "3992330"
+    },
+    {
+        "nombre": "Krisna Valdez",
+        "edad": 23,
+        "elo": [0, 0, 1914],
+        "id": "3992047"
+    },
+    {
+        "nombre": "Julio Finol",
+        "edad": 69,
+        "elo": [1636, 1864, 1660],
+        "id": "3929701"
+    }   
+    
+
 ]
