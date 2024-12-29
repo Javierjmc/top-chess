@@ -8,7 +8,7 @@
     {
         "nombre": "Ariel Torres",
         "edad": 51,
-        "elo": [2166, 2159, "UR"],
+        "elo": [2166, 2159, 0],
         "id": "3505014"
     },
     {
@@ -50,7 +50,7 @@
     {
         "nombre": "Javier Martínez",
         "edad": 35,
-        "elo": [1890, 1857, "UR"],
+        "elo": [1890, 1857, 0],
         "id": "3930564"
     },
     {
@@ -116,13 +116,13 @@
     {
         "nombre": "Gabriel Campos",
         "edad": 11,
-        "elo": ["UR", 1402, 1635],
+        "elo": [0, 1402, 1635],
         "id": "3996182"
     },
     {
         "nombre": "Jean Villamizar",
         "edad": 42,
-        "elo": [1786, 1776, "UR"],
+        "elo": [1786, 1776, 0],
         "id": "3935744"
     },
     {
@@ -140,20 +140,14 @@
     {
         "nombre": "Roman Pulvett",
         "edad": 48,
-        "elo": [1978, "UR", 1989],
+        "elo": [1978, 0, 1989],
         "id": "3929795"
     },
     {
         "nombre": "Argenis Palacios",
         "edad": 38,
-        "elo": [1735, 1860, "UR"],
+        "elo": [1735, 1860, 0],
         "id": "3938395"
-    },
-    {
-        "nombre": "Jhonny Pastrano",
-        "edad": 60,
-        "elo": [1702, 1686, 1680],
-        "id": "3933253"
     },
     {
         "nombre": "Jhonny Pastrano",
@@ -164,7 +158,7 @@
     {
         "nombre": "Fernando Gonzalez",
         "edad": 27,
-        "elo": [1816, "UR", 1756],
+        "elo": [1816, 0, 1756],
         "id": "3989348"
     },
     {
@@ -206,7 +200,7 @@
     {
         "nombre": "José Banega",
         "edad": 43,
-        "elo": [1886, 1839, "UR"],
+        "elo": [1886, 1839, 0],
         "id": "3923975"
     },
     {
@@ -242,43 +236,43 @@
     {
         "nombre": "Guillermo Herrera",
         "edad": 46,
-        "elo": ["UR", 1856, 1789],
+        "elo": [0, 1856, 1789],
         "id": "3938352"
     },
     {
         "nombre": "Javier Laguna",
         "edad": 18,
-        "elo": ["UR", 1781, 1682],
+        "elo": [0, 1781, 1682],
         "id": "3992063"
     },
     {
         "nombre": "Jean Malave",
         "edad": 43,
-        "elo": [1775, "UR", "UR"],
+        "elo": [1775, 0, 0],
         "id": "23913916"
     },
     {
         "nombre": "Keiler Martínez",
         "edad": 38,
-        "elo": ["UR", "UR", 1835],
+        "elo": [0, 0, 1835],
         "id": "3929582"
     },
     {
         "nombre": "Keymer Salom",
         "edad": 29,
-        "elo": ["UR", 1768, 1841],
+        "elo": [0, 1768, 1841],
         "id": "23910291"
     },
     {
         "nombre": "Jesus Yemez",
         "edad": 35,
-        "elo": ["UR", 1764, 1687],
+        "elo": [0, 1764, 1687],
         "id": "3990583"
     },
     {
         "nombre": "Victor Hernandez",
         "edad": 65,
-        "elo": [1795, "UR", "UR"],
+        "elo": [1795, 0, 0],
         "id": "3930866"
     }
 ]
