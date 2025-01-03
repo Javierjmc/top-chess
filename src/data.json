@@ -372,7 +372,7 @@
         "id": "3938336"
     },
     {
-        "nombre": "Osacar Fuentes",
+        "nombre": "Oscar Fuentes",
         "edad": 66,
         "elo": [1712, 1728, 0],
         "id": "3966291"
@@ -418,8 +418,13 @@
         "edad": 48,
         "elo": [1645, 0, 0],
         "id": "3940659"
-    }
-    
+    },
+    {
+        "nombre": "Saul Maita",
+        "edad": 26,
+        "elo": [0, 1865, 0],
+        "id": "3970892"
+    }  
     
     
        
