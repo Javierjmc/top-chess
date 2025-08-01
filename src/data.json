@@ -2,31 +2,31 @@
     {
         "nombre": "Carlos Didenot",
         "edad": 33,
-        "elo": [2167, 2129, 2102],
+        "elo": [2167, 2147, 2126],
         "id": "3912027"
     },
     {
         "nombre": "Ariel Torres",
         "edad": 51,
-        "elo": [2166, 2159, 0],
+        "elo": [2175, 2155, 2141],
         "id": "3505014"
     },
     {
         "nombre": "German Chacin",
         "edad": 49,
-        "elo": [2078, 2050, 2099],
+        "elo": [2078, 2067, 2114],
         "id": "3903656"
     },
     {
         "nombre": "Rodolfo Navarro",
         "edad": 61,
-        "elo": [1984, 1990, 2029],
+        "elo": [1990, 1995, 1992],
         "id": "3903710"
     },
     {
         "nombre": "Jhoan Gonzalez",
         "edad": 45,
-        "elo": [1970, 1990, 1981],
+        "elo": [1986, 1966, 1955],
         "id": "3923320"
     },
     {
@@ -38,7 +38,7 @@
     {
         "nombre": "Carlos Flores",
         "edad": 50,
-        "elo": [1932, 1793, 1914],
+        "elo": [1893, 1820, 1924],
         "id": "3908321"
     },
     {
@@ -74,7 +74,7 @@
     {
         "nombre": "Omar Rodriguez",
         "edad": 55,
-        "elo": [1864, 1821, 1860],
+        "elo": [1856, 1807, 1876],
         "id": "3932680"
     },
     {
@@ -92,7 +92,7 @@
     {
         "nombre": "Emmanuel Valdez",
         "edad": 18,
-        "elo": [1843, 1804, 1806],
+        "elo": [1839, 1870, 1859],
         "id": "3981827"
     },
     {
@@ -140,7 +140,7 @@
     {
         "nombre": "Roman Pulvett",
         "edad": 48,
-        "elo": [1978, 0, 1989],
+        "elo": [1900, 0, 1989],
         "id": "3929795"
     },
     {
@@ -200,19 +200,19 @@
     {
         "nombre": "José Banega",
         "edad": 43,
-        "elo": [1862, 1839, 0],
+        "elo": [1862, 1778, 1769],
         "id": "3923975"
     },
     {
         "nombre": "Rosselys Luces",
         "edad": 25,
-        "elo": [1900, 1810, 1845],
+        "elo": [1900, 1794, 1845],
         "id": "3908208"
     },
     {
         "nombre": "Guillermo Ovalles",
         "edad": 71,
-        "elo": [1840, 1800, 1819],
+        "elo": [1840, 1770, 1819],
         "id": "3903737"
     },
     {
@@ -356,7 +356,7 @@
     {
         "nombre": "Samuel Jimenez",
         "edad": 42,
-        "elo": [1953, 1907, 1966],
+        "elo": [1953, 1889, 1961],
         "id": "3943070"
     },
     {
@@ -371,63 +371,63 @@
         "elo": [1760, 0, 0],
         "id": "3938336"
     },
-    {
-        "nombre": "Oscar Fuentes",
-        "edad": 66,
-        "elo": [1712, 1728, 0],
-        "id": "3966291"
-    },
-    {
-        "nombre": "Cruz Vargas",
-        "edad": 52,
-        "elo": [1737, 1735, 0],
-        "id": "23905905"
-    },
-    {
-        "nombre": "John Lopez",
-        "edad": 49,
-        "elo": [1797, 0, 0],
-        "id": "23924489"
-    },
-    {
-        "nombre": "Isnardo Martínez",
-        "edad": 64,
-        "elo": [0, 1947, 0],
-        "id": "3970906"
-    },
-    {
-        "nombre": "Ibrahin Narvaez",
-        "edad": 70,
-        "elo": [1918, 1962, 1924],
-        "id": "3932427"
-    },
-    {
-        "nombre": "Jean Rivas",
-        "edad": 42,
-        "elo": [1737, 0, 1740],
-        "id": "3992349"
-    },
-    {
-        "nombre": "Pedro Perez",
-        "edad": 62,
-        "elo": [1847, 1913, 1888],
-        "id": "3932346"
-    },
-    {
-        "nombre": "Carlos Moreno",
-        "edad": 48,
-        "elo": [1645, 0, 0],
-        "id": "3940659"
-    },
-    {
-        "nombre": "Saul Maita",
-        "edad": 26,
-        "elo": [0, 1865, 0],
-        "id": "3970892"
-    }  
+
+  {
+    "nombre": "Oscar Fuentes",
+    "edad": 66,
+    "elo": [1712, 1728, 1764],
+    "id": "3966291"
+  },
+  {
+    "nombre": "Cruz Vargas",
+    "edad": 52,
+    "elo": [1737, 1735, 0],
+    "id": "23905905"
+  },
+  {
+    "nombre": "John Lopez",
+    "edad": 49,
+    "elo": [1797, 0, 0],
+    "id": "23924489"
+  },
+  {
+    "nombre": "Isnardo Martínez",
+    "edad": 64,
+    "elo": [0, 1947, 0],
+    "id": "3970906"
+  },
+  {
+    "nombre": "Ibrahin Narvaez",
+    "edad": 70,
+    "elo": [1918, 1962, 1924],
+    "id": "3932427"
+  },
+  {
+    "nombre": "Jean Rivas",
+    "edad": 42,
+    "elo": [1737, 0, 1740],
+    "id": "3992349"
+  },
+  {
+    "nombre": "Pedro Perez",
+    "edad": 62,
+    "elo": [1847, 1913, 1888],
+    "id": "3932346"
+  },
+  {
+    "nombre": "Carlos Moreno",
+    "edad": 48,
+    "elo": [1645, 0, 0],
+    "id": "3940659"
+  },
+  {
+    "nombre": "Saul Maita",
+    "edad": 26,
+    "elo": [0, 1865, 0],
+    "id": "3970892"
+  }
+]
     
     
        
-    
 
-]
